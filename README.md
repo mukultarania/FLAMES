@@ -1,6 +1,13 @@
-# love_69_calculator
+# FLAMES
 
-69 Calculator
+This flames calculator assesses and predicts the outcome of a relationship based on an algorithm of two given names.
+The flames calculator is based on quite a simple algorithm in which FLAMES stands for:
+■ Friendship;
+■ Love;
+■ Affection;
+■ Marriage;
+■ Enemy;
+■ Siblings.
 
 ## Getting Started
 
